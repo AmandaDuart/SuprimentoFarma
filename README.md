@@ -27,5 +27,5 @@ Em desenvolvimento
 # Colaboradores
 
 ## Amanda Duarte
-### Github: https://github.com/AmandaDuart
+### Linkedin: https://www.linkedin.com/in/amandaduarts/
 
