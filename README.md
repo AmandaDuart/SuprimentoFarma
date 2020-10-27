@@ -1,6 +1,6 @@
 
 <center>
-  <img src="https://github.com/AmandaDuart/SuprimentoFarma/blob/main/src/public/img/tarefas.jpg" width="16"></img>
+  <img src="https://github.com/AmandaDuart/SuprimentoFarma/blob/main/src/public/img/tarefas.jpg" width="100"></img>
 </center>  
 # SuprimentoFarma
 
