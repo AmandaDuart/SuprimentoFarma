@@ -1,6 +1,8 @@
 # SuprimentoFarma
+<img src="/static/tarefas.jpg" alt="My cool logo"/>
+# My cool project and above is the logo of it
+
 Projeto de gestão de estoque de medicamentos
-<img src="/static/img/tarefas.jpg"/>
 # Como rodar a aplicação
 
 ### Clone o projeto
