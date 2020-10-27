@@ -1,6 +1,6 @@
 # SuprimentoFarma
 Projeto de gestão de estoque de medicamentos
-<img src="static/tarefas.jpg" alt="My cool logo"/>
+<img src="/static/tarefas.jpg"/>
 # Como rodar a aplicação
 
 ### Clone o projeto
