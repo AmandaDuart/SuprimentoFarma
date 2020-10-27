@@ -1,8 +1,11 @@
+
+<center>
+  <img src="https://github.com/AmandaDuart/SuprimentoFarma/blob/main/src/public/img/tarefas.jpg" width="16"></img>
+</center>  
 # SuprimentoFarma
-<img src="/static/tarefas.jpg" alt="My cool logo"/>
-# My cool project and above is the logo of it
 
 Projeto de gestão de estoque de medicamentos
+
 # Como rodar a aplicação
 
 ### Clone o projeto
